@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Demofuncallprogram\Demofuncallprogram\bin\Debug\Demofuncallprogram.exe.config
+C:\Users\Admin\source\repos\Demofuncallprogram\Demofuncallprogram\bin\Debug\Demofuncallprogram.exe
+C:\Users\Admin\source\repos\Demofuncallprogram\Demofuncallprogram\bin\Debug\Demofuncallprogram.pdb
+C:\Users\Admin\source\repos\Demofuncallprogram\Demofuncallprogram\obj\Debug\Demofuncallprogram.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Demofuncallprogram\Demofuncallprogram\obj\Debug\Demofuncallprogram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Demofuncallprogram\Demofuncallprogram\obj\Debug\Demofuncallprogram.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Demofuncallprogram\Demofuncallprogram\obj\Debug\Demofuncallprogram.exe
+C:\Users\Admin\source\repos\Demofuncallprogram\Demofuncallprogram\obj\Debug\Demofuncallprogram.pdb
