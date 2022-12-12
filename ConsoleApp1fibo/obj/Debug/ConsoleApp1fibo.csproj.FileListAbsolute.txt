@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\ConsoleApp1fibo\ConsoleApp1fibo\bin\Debug\ConsoleApp1fibo.exe.config
+C:\Users\Admin\source\repos\ConsoleApp1fibo\ConsoleApp1fibo\bin\Debug\ConsoleApp1fibo.exe
+C:\Users\Admin\source\repos\ConsoleApp1fibo\ConsoleApp1fibo\bin\Debug\ConsoleApp1fibo.pdb
+C:\Users\Admin\source\repos\ConsoleApp1fibo\ConsoleApp1fibo\obj\Debug\ConsoleApp1fibo.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleApp1fibo\ConsoleApp1fibo\obj\Debug\ConsoleApp1fibo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\ConsoleApp1fibo\ConsoleApp1fibo\obj\Debug\ConsoleApp1fibo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp1fibo\ConsoleApp1fibo\obj\Debug\ConsoleApp1fibo.exe
+C:\Users\Admin\source\repos\ConsoleApp1fibo\ConsoleApp1fibo\obj\Debug\ConsoleApp1fibo.pdb
